@@ -1,4 +1,7 @@
 # oss2026-team10
-A:2025402004 민성연
-B:
-C:
+
+
+## 팀원
+
+| GitHub | 맡은 일 |
+|seongyeonmin|A|
