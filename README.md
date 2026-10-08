@@ -5,3 +5,4 @@
 
 | GitHub | 맡은 일 |
 |seongyeonmin|A|
+|seingyeonmin|화면구성|
